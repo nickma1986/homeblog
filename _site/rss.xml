@@ -5,10 +5,31 @@
         <description>Nick Ma's Blog - Nick Ma</description>
         <link>https://www.nagekar.com</link>
         <atom:link href="https://www.nagekar.com/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 28 Oct 2017 14:07:39 +0800</lastBuildDate>
-        <pubDate>Sat, 28 Oct 2017 14:07:39 +0800</pubDate>
+        <lastBuildDate>Sat, 28 Oct 2017 14:14:11 +0800</lastBuildDate>
+        <pubDate>Sat, 28 Oct 2017 14:14:11 +0800</pubDate>
         <ttl>60</ttl>
 
+
+        <item>
+                <title>Test</title>
+                <description>
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'foo'&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+    &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h1 id=&quot;def-foo&quot;&gt;def foo&lt;/h1&gt;
+&lt;h2 id=&quot;puts-foo&quot;&gt;puts ‘foo’&lt;/h2&gt;
+&lt;h3 id=&quot;end&quot;&gt;end&lt;/h3&gt;
+</description>
+                <link>https://www.nagekar.com/2017/10/Test.html</link>
+                <guid>https://www.nagekar.com/2017/10/Test</guid>
+                <pubDate>Sat, 28 Oct 2017 00:00:00 +0800</pubDate>
+        </item>
 
         <item>
                 <title>Test</title>

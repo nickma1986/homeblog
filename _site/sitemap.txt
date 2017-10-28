@@ -8,6 +8,7 @@ https://www.nagekar.com/sitemap.txt
 https://www.nagekar.com/tags
 
 https://www.nagekar.com/2017/10/Test.html
+https://www.nagekar.com/2017/10/Test.html
 https://www.nagekar.com/2017/10/Jekyll-Start.html
 https://www.nagekar.com/2017/10/Highlight-Test.html
 https://www.nagekar.com/2017/04/Lorem-Ipsum.html
