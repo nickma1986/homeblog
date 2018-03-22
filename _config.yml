@@ -114,3 +114,7 @@ JB :
     input: GFM
   # Highlight
   highlight: true
+
+collections:
+  my_collection:
+    foo: bar
