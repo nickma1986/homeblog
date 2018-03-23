@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>Nick Ma's Blog</title>
+        <description>Nick Ma's Blog - Nick Ma</description>
+        <link>https://www.nagekar.com</link>
+        <atom:link href="https://www.nagekar.com/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Fri, 23 Mar 2018 18:15:52 +0800</lastBuildDate>
+        <pubDate>Fri, 23 Mar 2018 18:15:52 +0800</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>Jekyll使用教程草稿</title>
+                <description>&lt;h2 id=&quot;react搭建需求管理列表&quot;&gt;React搭建需求管理列表&lt;/h2&gt;
+&lt;p&gt;Node.js + React + MongoDB&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;express -e feed
+npm install
+npm install react react-dom webpack
+npm start
+//重新打包
+webpack -w&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;#React路由
+文档 https://react-guide.github.io/react-router-cn/index.html
+两种方式
+Link
+history.push&lt;/p&gt;
+
+&lt;p&gt;#React页面间传值&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;props.params&lt;/li&gt;
+  &lt;li&gt;query&lt;/li&gt;
+  &lt;li&gt;state&lt;/li&gt;
+  &lt;li&gt;onclick&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;#nodejs配置log4js
+http://blog.fens.me/nodejs-log4js/&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;npm install log4js –save //安装到工程目录&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;npm i antd -S
+npm i babel-plugin-import -D
+.roadhogrc
+{
+  “extraBabelPlugins”: [
+    [“import”, {
+      “libraryName”: “antd”,
+      “libraryDirectory”: “lib”,
+      “style”: “css”
+    }]
+  ]
+}
+npm install less
+npm install less-loader
+npm install style-loader
+npm install css-loader&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                <link>https://www.nagekar.com/2018/02/ReactProject.html</link>
+                <guid>https://www.nagekar.com/2018/02/ReactProject</guid>
+                <pubDate>Tue, 13 Feb 2018 00:00:00 +0800</pubDate>
+        </item>
+
+        <item>
+                <title>Lorem Ipsum</title>
+                <description>&lt;p&gt;
+Lorem ipsum dolor sit amet, ut paulo aperiam signiferumque quo. Quaeque pertinacia mnesarchum te vel. Ei tollit habemus delectus mel, pro zril cetero adipiscing an. Eius aliquip legimus ad mea, vix te quod eripuit, munere doctus oporteat qui te. Dolore fierent nam ea. Eos ex tale commune moderatius, ei mel malorum suscipit neglegentur. Has quod falli alienum ne.
+&lt;/p&gt;
+&lt;p&gt;
+
+Wisi impedit albucius cum no. Pri nibh posse in. Tollit copiosae mei at, summo perfecto gubergren cum cu. Pri verterem dissentiet te, error option legendos te ius. Nihil sapientem expetenda in qui, usu no dicit option.
+&lt;/p&gt;
+&lt;p&gt;
+Eam ad illud constituto, ne urbanitas reprimique qui. Ad duo quas quando vivendo, insolens accusamus ne vim. Ne vel lorem legimus commune, eam autem laudem ne, oratio cetero voluptatibus in cum. Ea tamquam assueverit philosophia vix, erroribus eloquentiam consectetuer est ea. Enim feugait concludaturque ad ius, ne vel stet placerat.
+&lt;/p&gt;
+&lt;p&gt;
+Te mea everti platonem sententiae, ius te cibo partem suavitate, at qui quidam urbanitas. Qui inimicus repudiandae ne, nobis vivendo te sea, his alia vivendum in. Vitae imperdiet vis at, eu impetus volutpat expetendis duo. Vel sonet commune ne, aliquid adipisci te vis. Pri in simul rationibus signiferumque, aperiri constituto ei vel.
+&lt;/p&gt;
+&lt;p&gt;
+Et modo dolorem referrentur usu. Exerci lobortis id mei, mel putant everti te. Qui error detraxit te, in vis ignota eripuit scripserit. Ut labore patrioque dissentiet has, feugiat propriae invidunt est ei, mei nostrud volutpat rationibus ei. Mea at graeci tritani, sint mediocrem vituperata no nec. Eu pri mazim vitae ocurreret, iudico graeco consectetuer mel cu, quo dico maiorum ei.&lt;/p&gt;</description>
+                <link>https://www.nagekar.com/2017/04/Lorem-Ipsum.html</link>
+                <guid>https://www.nagekar.com/2017/04/Lorem-Ipsum</guid>
+                <pubDate>Mon, 17 Apr 2017 00:00:00 +0800</pubDate>
+        </item>
+
+        <item>
+                <title>Jekyll教程</title>
+                <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h1 id=&quot;jekyll网站目录&quot;&gt;Jekyll网站目录&lt;/h1&gt;
+    &lt;p&gt;.
+  ├── _config.yml //配置信息
+  ├── _drafts //草稿
+  |   ├── begin-with-the-crazy-ideas.textile
+  |   └── on-simplicity-in-technology.markdown
+  ├── _includes
+  |   ├── footer.html
+  |   └── header.html
+  ├── _layouts
+  |   ├── default.html
+  |   └── post.html
+  ├── _posts //博客
+  |   ├── 2007-10-29-why-every-programmer-should-play-nethack.textile
+  |   └── 2009-04-26-barcamp-boston-4-roundup.textile
+  ├── _site //生成站点内容
+  ├── .jekyll-metadata
+  └── index.html //首页&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;_drafts&quot;&gt;_drafts&lt;/h3&gt;
+&lt;p&gt;通过
+    &amp;gt;jekyll server –draft
+启动，可以将草稿箱中的draft进行预览&lt;/p&gt;
+&lt;h3 id=&quot;_includes&quot;&gt;_includes&lt;/h3&gt;
+&lt;p&gt;组件重用&lt;/p&gt;
+&lt;h3 id=&quot;_layouts&quot;&gt;_layouts&lt;/h3&gt;
+&lt;p&gt;布局模板&lt;/p&gt;
+&lt;h3 id=&quot;_posts&quot;&gt;_posts&lt;/h3&gt;
+&lt;p&gt;文章&lt;/p&gt;
+&lt;h3 id=&quot;_data&quot;&gt;_data&lt;/h3&gt;
+&lt;p&gt;网站数据，例如members.json，可以site.data.members访问&lt;/p&gt;
+&lt;h3 id=&quot;_site&quot;&gt;_site&lt;/h3&gt;
+&lt;p&gt;转换后的网站内容&lt;/p&gt;
+</description>
+                <link>https://www.nagekar.com/2017/04/Jekyll%E6%95%99%E7%A8%8B.html</link>
+                <guid>https://www.nagekar.com/2017/04/Jekyll教程</guid>
+                <pubDate>Mon, 17 Apr 2017 00:00:00 +0800</pubDate>
+        </item>
+
+
+</channel>
+</rss>
