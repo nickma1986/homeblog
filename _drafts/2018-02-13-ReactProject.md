@@ -20,6 +20,7 @@ Node.js + React + MongoDB
 两种方式
 Link
 history.push
+withRouter(MyComponent)组件，包裹自定义组件，自动获得router属性
 
 #React页面间传值
 1. props.params
@@ -47,3 +48,6 @@ http://blog.fens.me/nodejs-log4js/
 >npm install less-loader
 >npm install style-loader
 >npm install css-loader
+
+#css相关知识
+>height: 8vp; //视口被分为100份，即100vp
