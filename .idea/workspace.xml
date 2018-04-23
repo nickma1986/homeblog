@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2873670-35a7-4201-9f80-a1c6abd99cd4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/10-tips-to-improve-your-workflow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/10-tips-to-improve-your-workflow/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/AndroidPlugin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/AndroidPlugin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/IntergrationRn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/IntergrationRn/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/ReactProject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/ReactProject/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/YogaLayout-Vs-Litho-Vs-FlexboxLayout/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/YogaLayout-Vs-Litho-Vs-FlexboxLayout/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/conference-on-javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/conference-on-javascript/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/how-i-rest-from-work/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/how-i-rest-from-work/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/how-to-start-programming/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/how-to-start-programming/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/the-best-organizer-software/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/the-best-organizer-software/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/welcome-to-jekyll/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/welcome-to-jekyll/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/使用nodemailer配置新浪邮箱发送邮件/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/使用nodemailer配置新浪邮箱发送邮件/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/使用pm2部署mongodb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/使用pm2部署mongodb/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/使用pm2部署nodejs项目/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/使用pm2部署nodejs项目/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a2873670-35a7-4201-9f80-a1c6abd99cd4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -39,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/_site/robots.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="47" selection-start-column="47" selection-end-column="47" />
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -65,11 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+            <state relative-caret-position="315">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="533">
+              <caret line="87" column="57" selection-start-line="87" selection-start-column="49" selection-end-line="87" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -118,6 +106,7 @@
       <find>flexible-jekyll</find>
       <find>4000</find>
       <find>git</find>
+      <find>main.css</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/assets/img</dir>
@@ -231,7 +220,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6403000" />
+    <option name="totallyTimeSpent" value="6708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="83" y="23" width="1356" height="837" extended-state="0" />
@@ -439,13 +428,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -574,7 +556,7 @@
     <entry file="file://$PROJECT_DIR$/_site/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="47" selection-start-column="47" selection-end-column="47" />
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -587,8 +569,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        <state relative-caret-position="315">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="87" column="57" selection-start-line="87" selection-start-column="49" selection-end-line="87" selection-end-column="57" />
         </state>
       </provider>
     </entry>
