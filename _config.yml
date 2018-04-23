@@ -2,14 +2,14 @@ title: Hello, world! I'm Yuliang
 description: > # this means to ignore newlines until "baseurl:"
   This is an android developer blog.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog /flexible-jekyll
+baseurl: "https://nickma1986.github.io/homeblog" # the subpath of your site, e.g. /blog /flexible-jekyll
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Yuliang # add your name
 author-img: yuliang_avatar.jpg # add your photo
-about-author: I am a android developer in Weibo. master # add description
+about-author: I am a android developer in Weibo. gh-pages # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: nickma1986

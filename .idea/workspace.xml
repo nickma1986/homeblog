@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2873670-35a7-4201-9f80-a1c6abd99cd4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/10-tips-to-improve-your-workflow/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/AndroidPlugin/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/IntergrationRn/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/ReactProject/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/YogaLayout-Vs-Litho-Vs-FlexboxLayout/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/scss/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/font-awesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/font-awesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/david-freeman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/flexbox.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/home-page.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/how-to-start.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/i-rest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/js-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/mac.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/mongodb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/nodemailer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/pm2-v4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/post-example.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/promo-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/software.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/we-in-rest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/workflow.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/yuliang_avatar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/conference-on-javascript/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/how-i-rest-from-work/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/how-to-start-programming/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/page/2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/the-best-organizer-software/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/welcome-to-jekyll/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/使用nodemailer配置新浪邮箱发送邮件/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/使用pm2部署mongodb/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/使用pm2部署nodejs项目/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,24 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="robots.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/robots.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" selection-start-column="38" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sitemap.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/sitemap.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2018-04-17-使用pm2部署mongodb.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-17-使用pm2部署mongodb.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -97,8 +31,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="165">
+              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -127,15 +61,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="248">
               <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -217,11 +142,6 @@
               <item name="homeblog" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="homeblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeblog" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -274,10 +194,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6788000" />
+    <option name="totallyTimeSpent" value="6805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="83" y="23" width="1356" height="837" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494382" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -291,11 +212,22 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494382" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32972974" />
+      <window_info id="Favorites" order="3" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,13 +322,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/sitemap.xml" />
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -411,13 +337,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/robots.txt" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-12-how-to-start-programming.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -642,13 +562,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/sitemap.xml" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -656,24 +570,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/robots.txt" />
+    <entry file="file://$PROJECT_DIR$/_site/index.html" />
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="165">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
         </state>
       </provider>
     </entry>
