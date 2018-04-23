@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is an android developer blog.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog /flexible-jekyll
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nickma1986.github.io/homeblog" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
