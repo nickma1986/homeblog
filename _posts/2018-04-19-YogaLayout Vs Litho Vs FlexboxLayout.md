@@ -1,8 +1,9 @@
 ---
 layout: post
 title: YogaLayout Vs Litho Vs FlexboxLayout
-publised: false
-categroy: [yoga, YogaLayout, Litho, FlexboxLayout, Android]
+date: 2018-04-19 10:00:00 +0300
+img: flexbox.jpg # Add image post (optional)
+tags: [yoga, YogaLayout, Litho, FlexboxLayout, Android]
 ---
 
 ## 比较

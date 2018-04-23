@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 使用nodemailer配置新浪邮箱发送邮件
-publised: false
-categroy: [nodejs, nodemailer]
+img: nodemailer.png # Add image post (optional)
+tags: [nodejs, nodemailer]
 ---
 
 ## 安装nodemailer
