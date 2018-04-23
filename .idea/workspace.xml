@@ -1,121 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2873670-35a7-4201-9f80-a1c6abd99cd4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/homeblog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2017-10-28-Test.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2018-01-14-IntergrationRn.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2018-02-13-ReactProject.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2018-03-17-AndroidPlugin.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2018-04-15-使用nodemailer配置新浪邮箱发送邮件.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2018-04-17-使用pm2部署mongodb.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2018-04-17-使用pm2部署nodejs项目.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2018-04-19-YogaLayout Vs Litho Vs FlexboxLayout.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/analytics" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/gauges" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/getclicky" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/google" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/google-universal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/mixpanel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/piwik" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/categories_list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/comments" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/disqus" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/duoshuo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/facebook" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/intensedebate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/livefyre" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/feedburner" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/file_exists" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/gist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/is_production" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/liquid_raw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/pages_list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/posts_collate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/setup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/sharing" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/sort_collection" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/JB/tags_list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_plugins/debug.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-04-17-Jekyll教程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-04-17-Lorem-Ipsum.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-15-使用nodemailer配置新浪邮箱发送邮件.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-15-使用nodemailer配置新浪邮箱发送邮件.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-17-使用pm2部署mongodb.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-17-使用pm2部署mongodb.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-17-使用pm2部署nodejs项目.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-17-使用pm2部署nodejs项目.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-19-YogaLayout Vs Litho Vs FlexboxLayout.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-19-YogaLayout Vs Litho Vs FlexboxLayout.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/04/Jekyll教程.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/04/Lorem-Ipsum.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/02/ReactProject.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/bulma.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/highlight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/leaguegothic-regular-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/leaguegothic-regular-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/leaguegothic-regular-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/leaguegothic-regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/404_minions.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/Dust_Bunny.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/js/typewriter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/atom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/php.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/quotes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/rss.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tmp/fullwidth.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tmp/hamburger.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tmp/ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tmp/langslide.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tmp/mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tmp/navi.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bulma.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/highlight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/leaguegothic-regular-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/leaguegothic-regular-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/leaguegothic-regular-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/leaguegothic-regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/404_minions.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/Dust_Bunny.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/typewriter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/atom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rss.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/fullwidth.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/hamburger.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/langslide.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/navi.gif" beforeDir="false" />
-    </list>
+    <list default="true" id="a2873670-35a7-4201-9f80-a1c6abd99cd4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -191,8 +77,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="240">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -355,12 +241,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524377123757</updated>
       <workItem from="1524377125090" duration="561000" />
-      <workItem from="1524395105779" duration="2561000" />
+      <workItem from="1524395105779" duration="2675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4063000" />
+    <option name="totallyTimeSpent" value="4177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="83" y="23" width="1356" height="837" extended-state="0" />
@@ -617,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="240">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         </state>
       </provider>
     </entry>
