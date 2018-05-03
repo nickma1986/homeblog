@@ -20,24 +20,27 @@ AndroidPlugin开发模式三种:
 
 同步后groovy目录被AS识别为源码目录，可以创建包和类文件。
 3. 创建WBCodePlugin.groovy文件
->      package com.sina.weibo.codeplugin
-        import org.gradle.api.Plugin
-        import org.gradle.api.Project
-        public class WBCodePlugin implements Plugin<Project> {
-        @Override
-        void apply(Project project) {
-          project.task('testPlugin') << {
-            println "Hello gradle plugin in src"
-          }
-          }
-        }
+```      
+package com.sina.weibo.codeplugin
+import org.gradle.api.Plugin
+import org.gradle.api.Project
 
+public class WBCodePlugin implements Plugin<Project> {
+    @Override
+    void apply(Project project) {
+        project.task('testPlugin') << {
+            println "Hello gradle plugin in src"
+        }
+    }
+}
+```
 配置app的build.gradle文件，注意不能加单引号，这里调用的是插件类本身
 apply plugin: com.sina.weibo.codeplugin.WBCodePlugin
 运行clean 查看gradle控制台就有想要的输出了。
 
 4. app的build.gradle文件中添加Transform API依赖
->apply plugin: 'groovy'
+```
+apply plugin: 'groovy'
 dependencies {
     compile 'com.android.tools.build:gradle:3.0.0'
     compile gradleApi()
@@ -51,9 +54,10 @@ repositories {
     jcenter()
     maven { url 'https://maven.google.com' }
 }
-
+```
 5. WBCodePlugin实现Transform接口
->class WBAopPlugin extends Transform implements Plugin<Project> {
+```
+class WBAopPlugin extends Transform implements Plugin<Project> {
     @Override
     void apply(Project project) {
 //        project.task('testPlugin') << {
@@ -73,9 +77,10 @@ repositories {
             //TODO 实现ClassVisitor进行ASM字节码插桩
             }
   }
-
+```
 6. 重写ClassVisitor的visitMethod
->@Override
+```
+    @Override
     public MethodVisitor visitMethod(int access, String name, String desc, String signature,
                                      String[] exceptions) {
         MethodVisitor methodVisitor = cv.visitMethod(access, name, desc, signature, exceptions);
@@ -105,11 +110,13 @@ repositories {
         };
         return methodVisitor;
     }
-
+```
 7. 字节码编写可以使用jclasslib这个AS插件查看现有java类生成的class代码
-> 0 getstatic #5 <java/lang/System.out>
+```
+ 0 getstatic #5 <java/lang/System.out>
  3 ldc #8 <start HelloWorld.java onClick>
  5 invokevirtual #7 <java/io/PrintStream.println>
  8 aload_1 //将index为1的local var放到栈顶
  9 invokestatic #9 <com/sina/weibo/aopdemo/HelloCodeTest.click> //调用静态方法
 12 return
+```

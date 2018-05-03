@@ -27,7 +27,7 @@ FlexboxLayout虽然可以xml配置和动态修改属性，但支持的flexbox属
 
 4.例子
 YogaLayout
->
+```
 <com.facebook.yoga.android.YogaLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -51,9 +51,9 @@ YogaLayout
                 yoga:margin_left="10dp"
                 />
         </com.facebook.yoga.android.YogaLayout>
-
+```
 Litho
->@LayoutSpec
+```@LayoutSpec
 public class PlaygroundComponentSpec {
 	@OnCreateLayout
 	static Component onCreateLayout(ComponentContext c) {
@@ -81,9 +81,10 @@ public class PlaygroundComponentSpec {
 			.build();
 	}
 }
+```
 
 FlexboxLayout
->
+```
 <com.google.android.flexbox.FlexboxLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -105,12 +106,14 @@ FlexboxLayout
         app:layout_alignSelf="center"
         />
 </com.google.android.flexbox.FlexboxLayout>
-
+```
 或者
->FlexboxLayout flexboxLayout = (FlexboxLayout) findViewById(R.id.flexbox_layout);
+```
+FlexboxLayout flexboxLayout = (FlexboxLayout) findViewById(R.id.flexbox_layout);
 flexboxLayout.setFlexDirection(FlexDirection.ROW);
 View view = flexboxLayout.getChildAt(0);
 FlexboxLayout.LayoutParams lp = (FlexboxLayout.LayoutParams) view.getLayoutParams();
 lp.order = -1;
 lp.flexGrow = 2;
 view.setLayoutParams(lp);
+```
