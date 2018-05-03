@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Yuliang # add your name
 author-img: yuliang_avatar.jpg # add your photo
-about-author: I am a android developer in Weibo. gh-pages # add description
+about-author: I am a developer in Weibo. gh-pages # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: nickma1986
